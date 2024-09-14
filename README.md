@@ -7,7 +7,6 @@
 Access the Google Cloud Console and create a new VM instance using Compute Engine.
 
 <img width="822" alt="gcp" src="https://github.com/user-attachments/assets/f85b7b4a-899e-4129-a6b5-d258c871a5a6">
-<img width="762" alt="Screenshot 2024-09-14 at 2 53 11 PM" src="https://github.com/user-attachments/assets/43fe9096-51ec-424c-94ae-7256e1ba39cf">
 
 Select a basic configuration (e.g., Debian GNU/Linux, e2-micro instance type).
 
@@ -23,6 +22,7 @@ Stop the VM and document the steps you followed.
 
 
 ## Azure
+<img width="1097" alt="Screenshot 2024-09-14 at 4 06 54 PM" src="https://github.com/user-attachments/assets/cb60d32b-420a-42db-80f3-6a0601eb51ff">
 
 ## 2. Monitor VM Costs
 
